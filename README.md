@@ -8,5 +8,5 @@
   kristgalstyan417@gmail.com
   **
 </p>
- ![Coding](https://github.com/KristGalstyan/KristGalstyan/assets/117152881/60ee3d1c-72ef-4d81-bca6-43ec07879856)
+![Coding](https://github.com/KristGalstyan/KristGalstyan/assets/117152881/42c8abda-3e06-4492-8f19-c57b0b408295)
 
