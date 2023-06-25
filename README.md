@@ -1,5 +1,3 @@
- ![Coding](https://github.com/KristGalstyan/KristGalstyan/assets/117152881/60ee3d1c-72ef-4d81-bca6-43ec07879856)
-
 <h1 align="center">Hi 👋, I'm Krist Galstyan</h1>
 <h3 align="center">I'm Full-Stack Developer</h3>
 
@@ -10,4 +8,5 @@
   kristgalstyan417@gmail.com
   **
 </p>
+ ![Coding](https://github.com/KristGalstyan/KristGalstyan/assets/117152881/60ee3d1c-72ef-4d81-bca6-43ec07879856)
 
